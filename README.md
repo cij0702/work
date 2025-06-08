@@ -98,16 +98,12 @@ App:
 
 - 支援 C++11 的編譯器（如 g++, Visual Studio 等）
 
-##畫面截圖
+##成果展示:
+!成果11](./flowchart.png)
+![成果2](./flowchart.png)
 
 
-menu.png：主選單畫面
 
-input_record.png：新增記帳畫面
-
-report.png：月份報表畫面
-
-summary.png：分類統計畫面
 
 
 g++ main.cpp AccountBook.cpp Expense.cpp Income.cpp Record.cpp Transaction.cpp -o cloudjudge
