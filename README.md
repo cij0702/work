@@ -98,15 +98,19 @@ App:
 
 - 支援 C++11 的編譯器（如 g++, Visual Studio 等）
 
+
+
 ##成果展示:
+
 ![成果1](程式截圖1.png)
+
 ![成果2](程式截圖2.png)
 
 
 
 
 
-g++ main.cpp AccountBook.cpp Expense.cpp Income.cpp Record.cpp Transaction.cpp -o cloudjudge
+
 
 | 成員  | 工作內容                                  |
 | --- | ------------------------------------- |
