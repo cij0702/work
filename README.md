@@ -99,8 +99,8 @@ App:
 - 支援 C++11 的編譯器（如 g++, Visual Studio 等）
 
 ##成果展示:
-!成果11](./flowchart.png)
-![成果2](./flowchart.png)
+![成果1](程式截圖1.png)
+![成果2](程式截圖2.png)
 
 
 
